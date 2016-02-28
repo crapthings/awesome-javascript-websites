@@ -6,4 +6,6 @@
 
 ### Blog
 
-[James K Nelson](http://jamesknelson.com/)
+[James K Nelson](http://jamesknelson.com)
+
+[Stanley Yang](https://www.stanleycyang.com/tutorials)
